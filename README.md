@@ -14,7 +14,6 @@ faten alsahli
 * Weather Api
 
 
-# ScreenShot:
 
 
 
@@ -23,5 +22,6 @@ faten alsahli
 
 
 
-https://user-images.githubusercontent.com/97634511/173443847-bebab44b-4bcb-4a48-82a6-fad4e58fc224.mov
+
+
 
